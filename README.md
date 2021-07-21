@@ -1,1 +1,1 @@
-game address:http://Masterxieyifan.github.io/2048/index.html
+game address:http://masterxieyifan.github.io/2048/index.html
